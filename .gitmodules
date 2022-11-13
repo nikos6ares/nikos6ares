@@ -1,0 +1,3 @@
+[submodule "docs/WhatATheme"]
+    path = docs/WhatATheme
+    url = git://github.com/thedevslot/WhatATheme
